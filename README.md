@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/elblanco2-hostbridge-mcp-badge.png)](https://mseep.ai/app/elblanco2-hostbridge-mcp)
+
 # Arc MCP Server
 
 A Model Context Protocol (MCP) server that simplifies framework deployments on various hosting environments, with a focus on shared hosting.
